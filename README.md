@@ -16,7 +16,10 @@
  
 ## __效果图__ 
 
+<img src="/Images/GIFBar.gif"/> 
+
 #### 视频
+
 <video id="video" controls="" preload="none" poster="/Images/3dBar.png">
 <source id="mp4" src="/Images/3dBar.mp4" type="video/mp4">
 </video>
